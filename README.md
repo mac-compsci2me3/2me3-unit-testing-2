@@ -14,4 +14,4 @@ The `RangeCategorizer` class includes methods with multiple if-else branches. It
 - `TestRangeCategorizer.java`: Includes tests to exercise each branch of the conditional logic in the `RangeCategorizer` class, ensuring that all possible outcomes are verified.
 
 ## 4. Test Sorting algorithms (`SortingAlgorithms.java`)
-Your goal is to write test case for all 4 traditional sorting algorithms (in acending order), each method may have one or zero logical errors, write test cases to locate them
+Your goal is to write test cases for all 4 traditional sorting algorithms (in ascending order), each method may have one or zero logical errors, write test cases to locate them
